@@ -4,7 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
-
+# /*# Stripe
+# STRIPE_PUBLIC_KEY=pk_live_wYnsBZ4v6o4ZWdHpoTZ9sU2w00PRqno5aF
+# STRIPE_SECRET_KEY=sk_live_kEr2hek02RiVJ34a9o5wJsgK00duTJ7yPo*/
 # testing
 /coverage
 
